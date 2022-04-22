@@ -1,0 +1,4 @@
+// activates the virtual enviornment when the project opens in Terminal
+{
+    "python.pythonPath": "/Users/ericasiegel/.local/share/virtualenvs/storefront-zrZAO3d7/bin/python"
+}
